@@ -1,41 +1,11 @@
-# Prerequisites
-*.d
+#include <iostream>
+#include <string>
+#include <vector>
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+int main() {
+cout << "Welcome to my code!" << endl;
+cout << "More lines of code." << endl;
 
-# Precompiled Headers
-*.gch
-*.pch
+return 0;
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+}
