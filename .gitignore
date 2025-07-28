@@ -1,10 +1,19 @@
+/* 
+Pizza Project for C++ Programming I
+Author: Brooke Rahden
+Start Date: 03-23-2025
+End Date: 04-19-2025
+Edited: 07-27-2025
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
+using namespace std;
+
+
 
 int main() {
-cout << "Welcome to my code!" << endl;
-cout << "More lines of code." << endl;
 
 return 0;
 
