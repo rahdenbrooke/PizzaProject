@@ -487,6 +487,10 @@ int main() {
 		cout << "tofu = " << tofuAmount << endl;
 	}
 
+	if (!hamAmount.empty()) {			// ham
+		cout << "ham = " << hamAmount << endl;
+	}
+	
 	if (!dryRedPepperAmount.empty()) {                         // dry red pepper
 		cout << "dry red pepper = " << dryRedPepperAmount << endl;
 	}
