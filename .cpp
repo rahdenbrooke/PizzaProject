@@ -416,7 +416,7 @@ int main() {
 		// ask user if they would like to continue choosing
 		char continueChoice;
 
-		if (count > 0) {
+		if ((count > 0) && (count < 8)) {
 			cout << "Would you like to continue choosing? (y/n)" << endl << endl;
 			cout << "Enter choice: ";
 			cin >> continueChoice;
